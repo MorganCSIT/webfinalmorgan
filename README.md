@@ -1,20 +1,8 @@
-# Final Exam 6118156
+# about my exam
+1. It was tricky because of heroku, i had to make new repositories multiple times. 
+2. in the end i realized it was only because i didnt change the IP address options in Mongo atlas. 
+## somehing else about the exam
+1. The exam was hard, but i think i got most of it done. 
+2. i dont really know what else to talk about. 
 
-# Description
-Tech Stack - MERN
-This is react application for managing products and calculate prices. The user can add products, price and quantity and it will add to the database and display in the quotation management page. This is for Assumption university web development course by Aj Chayapol Moemeng.
-
-# Database
-Mongodb cluster
-Stored in quotation collection and stored as dictionary format 
-
-# Quotation page
-Sorted by date and display accordingly
-Button to navigate to the product adding page
-
-# Deployed in heroku
-https://company-6118156.herokuapp.com/
-heruku build succeed
-
-# How to use
-You can git clone this app, yarn install and yarn dev to use the application locally.
+#thank you for teaching this subject, i learned alot. 
